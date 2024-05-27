@@ -1,0 +1,17 @@
+{
+    "name": "jleehr/passwort_reset",
+    "description": "Allows administrators to send a password reset request to a user using a one-time login link.",
+    "type": "drupal-module",
+    "minimum-stability": "stable",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Jan Leehr (jleehr)",
+            "homepage": "https://github.com/jleehr",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/core": "^10"
+    }
+}
