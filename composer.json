@@ -1,5 +1,5 @@
 {
-    "name": "jleehr/passwort_reset",
+    "name": "jleehr/password_reset",
     "description": "Allows administrators to send a password reset request to a user using a one-time login link.",
     "type": "drupal-module",
     "minimum-stability": "stable",
