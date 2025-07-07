@@ -4,7 +4,7 @@ Allows administrators to send a password reset request to a user using a one-tim
 
 ## Requirements
 
-* Drupal >= 10
+* Drupal >= 10.3 || >=11
 
 ## Installation
 
